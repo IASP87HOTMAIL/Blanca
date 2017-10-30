@@ -4,3 +4,6 @@ El cuento de blanca.
 Esto tod un cuento.
 
 Que pasará ahora?
+=======
+El cuento de blanca.
+>>>>>>> parent of 5951786... Otro cambio en cuento
